@@ -1,8 +1,10 @@
 
-import Test from './src/Test'
-import {TestB} from './src/TestB'
+import {JsonResponse} from "./src/web/JsonResponse";
+
+import {IEnum} from "./src/IEnum";
+import {Theme} from "./src/Theme";
 
 export {
-    Test,
-    TestB
-}
+    JsonResponse, Theme
+};
+export type { IEnum };

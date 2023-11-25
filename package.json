@@ -1,5 +1,5 @@
 {
-    "name": "commons-ts",
+    "name": "@dongjak-public-types/commons",
     "version": "1.0.0",
     "description": "ts库项目模板",
     "publishConfig": {
