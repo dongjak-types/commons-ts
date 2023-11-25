@@ -10,8 +10,8 @@
         "build": "rimraf dist && dts-bundle-generator -o dist/commons-ts.d.ts index.ts  && vite build",
         "semantic-release": "semantic-release"
     },
-    "keywords": [],
     "type": "module",
+    "keywords": [],
     "author": "dongjak-types",
     "license": "MIT",
     "devDependencies": {
