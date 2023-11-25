@@ -28,16 +28,5 @@
     "semantic-release": "^22.0.0",
     "typescript": "^5.2.2",
     "vite": "^4.5.0"
-  },
-  "files": [
-    "dist"
-  ],
-  "typings": "./dist/commons-ts.d.ts",
-  "module": "./dist/commons-ts.es.js",
-  "exports": {
-    ".": {
-      "types": "./dist/commons-ts.d.ts",
-      "import": "./dist/commons-ts.es.js"
-    }
   }
 }
