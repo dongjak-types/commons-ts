@@ -1,4 +1,4 @@
-import {IPage} from "./Ipage";
+import {IPage} from "./IPage";
 
 /**
  * 分页工具类
