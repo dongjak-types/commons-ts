@@ -12,8 +12,8 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "dongjak-types",
   "license": "MIT",
+  "author": "dongjak-types",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^10.0.4",
