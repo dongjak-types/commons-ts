@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dongjak-types/commons-ts/compare/v1.0.0...v1.1.0) (2023-11-25)
+
+
+### Features
+
+* 删除一些不是很常用的页面 ([e9a5d74](https://github.com/dongjak-types/commons-ts/commit/e9a5d74941d21e2d771755ef6a56eec0892b8430))
+
 # 1.0.0 (2023-11-25)
 
 
