@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/dongjak-types/commons-ts/compare/v2.0.0...v2.1.0) (2023-11-25)
+
+
+### Features
+
+* 11 ([6399709](https://github.com/dongjak-types/commons-ts/commit/63997094f32118fd27e122b3de151cf3a19fde3b))
+
 # [2.0.0](https://github.com/dongjak-types/commons-ts/compare/v1.2.0...v2.0.0) (2023-11-25)
 
 
