@@ -47,7 +47,7 @@ jobs:
       - name: Build
         run: pnpm run build
       - name: Prepare
-        run: node ./github/scripts/pre-release.js
+        run: node ./.github/scripts/pre-release.js
       - name: Semantic Release
         run: pnpm run semantic-release
         env:
