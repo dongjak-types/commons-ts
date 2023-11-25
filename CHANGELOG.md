@@ -1,3 +1,11 @@
+# [2.2.0](https://github.com/dongjak-types/commons-ts/compare/v2.1.0...v2.2.0) (2023-11-25)
+
+
+### Features
+
+* 新增了数据相关的公共类型定义 ([fdfa6a4](https://github.com/dongjak-types/commons-ts/commit/fdfa6a4c730de892eb41e2cf4cd57a0eae7f37a5))
+* 新增了数据相关的公共类型定义 ([cb11933](https://github.com/dongjak-types/commons-ts/commit/cb11933cbefb37dd20d9d386c76f32f9291967fd))
+
 # [2.1.0](https://github.com/dongjak-types/commons-ts/compare/v2.0.0...v2.1.0) (2023-11-25)
 
 
