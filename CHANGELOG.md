@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dongjak-types/commons-ts/compare/v2.3.0...v3.0.0) (2023-12-02)
+
+
+### Features
+
+* vite更新到5 ([0c70442](https://github.com/dongjak-types/commons-ts/commit/0c7044284df301cfb667b809535af001d112945f))
+
+
+### BREAKING CHANGES
+
+* 111
+
 # [2.3.0](https://github.com/dongjak-types/commons-ts/compare/v2.2.0...v2.3.0) (2023-12-02)
 
 
