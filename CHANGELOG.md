@@ -1,3 +1,11 @@
+# [2.3.0](https://github.com/dongjak-types/commons-ts/compare/v2.2.0...v2.3.0) (2023-12-02)
+
+
+### Features
+
+* vite更新到5 ([5047b54](https://github.com/dongjak-types/commons-ts/commit/5047b5462124ad159e980c086b846e96838776ba))
+* 车辆编辑 ([805f1f9](https://github.com/dongjak-types/commons-ts/commit/805f1f9b2507fd2ba44c2e561c070ab5a676f316))
+
 # [2.2.0](https://github.com/dongjak-types/commons-ts/compare/v2.1.0...v2.2.0) (2023-11-25)
 
 
